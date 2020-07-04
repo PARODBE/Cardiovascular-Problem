@@ -1,0 +1,1 @@
+We have a very imbalanced Dataset, for this reason we have used libraries for imbalanced datasets like Smote or RandomUnderSampling
